@@ -17,7 +17,7 @@ Education
     
 
 2016-2019
-:   **BSc, Computer Science **; University of Acharya Nagarjuna (Guntur)
+:   **BSc Computer Science**; University of Acharya Nagarjuna (Guntur)
             **72.74**
    
  2014-2016
