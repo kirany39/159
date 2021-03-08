@@ -2,9 +2,9 @@ Kiran Prasad Thivari
 ============
 
 -------------------     ----------------------------
-Email                      kirancentral123@gmail.com
-Contact No                 xxxxxx8497
-MyCountry                  India
+- Email                      kirancentral123@gmail.com
+- Contact No                 xxxxxx8497
+- MyCountry                  India
 -------------------     ----------------------------
 
 Education
@@ -52,9 +52,9 @@ Certifications
 
 Personal Information
 ------------------------
- Father Name : T.Venkata Chitti Prasad
- DOB         : 1998/08/17
- Gender      : Male
- Address     : Guntur
+ - Father Name : T.Venkata Chitti Prasad
+ - DOB         : 1998/08/17
+ - Gender      : Male
+ - Address     : Guntur
 
 
