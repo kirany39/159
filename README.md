@@ -10,7 +10,7 @@ Kiran Prasad Thivari
 Education
 ---------
 
-2019-2012 (expected)
+2019-2022 (expected)
 :   **PG, Master of Computer Applications(MCA)**; Rvr&jc College (MyTown)
             **70.6**
 
